@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-##- 🔭 I’m currently working on SQL
-##- 🌱 I’m currently learning new skills related to Python
-##- 🤔 I’m looking for help with my journey from being an Electrical engineer to Data scientist
-##- 📫 How to reach me: marziatalib932@gmail.com
-##- 😄 Pronouns: She/Her
-##- ⚡ Fun fact: I'm a self learner
+- 🔭 I’m currently working on SQL
+- 🌱 I’m currently learning new skills related to Python
+- 🤔 I’m looking for help with my journey from being an Electrical engineer to Data scientist
+- 📫 How to reach me: marziatalib932@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a self learner
