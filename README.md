@@ -11,3 +11,12 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: marziatalib932@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a self learner
+
+  
+fn main() {
+    let name = 'Rafael Carneiro';
+    let acknowledgements = 'Software Engineer';
+
+    let location = 'Fortaleza, Ceara, Brazil';
+    let company = 'O2D - On Demand Development';
+}
